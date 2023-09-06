@@ -36,8 +36,7 @@
 ## Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/jp-reisconde" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/jp_xaxa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jp-reisconde" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  <a href = "https://web.whatsapp.com/send?phone=5531984028894"><img src="https://img.shields.io/badge/-Contato-%a4c639?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "mailto:jp.reisconde@gmail.com?subject"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
